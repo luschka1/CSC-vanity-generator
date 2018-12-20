@@ -12,10 +12,10 @@ A vanity address is a wallet address containing a few characters you like at the
 4. Install the dependency (casinocoin-libjs) by running `npm install casinocoin-libjs`
 5. Fire up the tool and **append the keywords you are looking for**:
 ```
-node cscwallet.js bob csc moon
+node cscwallet.js bob csc moon jim
 ```
 
-The example command above will search for wallet addresses containing either _bob_, _csc_ or _moon_.
+The example command above will search for wallet addresses containing either _bob_, _csc_, _moon_ or _jim_.
 
 ![Demo of install and wallet generation](https://gtasb9v.dlvr.cloud/4.gif)
 
