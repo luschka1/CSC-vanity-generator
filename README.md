@@ -34,7 +34,7 @@ If you use Windows and you don't have NodeJS running: [here's a screencap of the
 
 Good question indeed. The only way to be sure is to check the code;
 
-My code [is over here](https://github.com/luschka1/CSC-vanity-generator/blob/master/cscwallet.js) and as you can see is invoke the method "api.generateAddress()" - and as you can see on line 1 and 2:
+My code [is over here](https://github.com/luschka1/CSC-vanity-generator/blob/master/cscwallet.js) and as you can see it is invoking the method "api.generateAddress()" - and as you can see on line 1 and 2:
 
 	const CasinocoinAPI  = require('casinocoin-libjs').CasinocoinAPI
 	const api = new CasinocoinAPI()
