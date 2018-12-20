@@ -8,7 +8,7 @@ A vanity address is a wallet address containing a few characters you like at the
 [https://www.npmjs.com/get-npm](https://www.npmjs.com/get-npm).
 (nodejs allowes you to run Javascript code on your computer from the commandline).
 2. Download the source of this repository (using `git clone` or by downloading the zip)
-3. Start your commandline and go to the folder containing the source of this repository
+3. Start your command line and go to the folder containing the source of this repository
 4. Install the dependency (casinocoin-libjs) by running `npm install casinocoin-libjs`
 5. Disconnect from the Internet (to run fully offline)
 6. Fire up the tool and **append the keywords you are looking for**:
