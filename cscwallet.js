@@ -12,7 +12,7 @@ if (lookFor.length > 0) {
   lookFor.forEach(function (k) {
     console.log('   - ', k)
   })
-  var re = '^(c)(' + lookFor.join('|') + ')(.+)$|^(r.+)(' + lookFor.join('|') + ')$'
+  var re = '^(c)(' + lookFor.join('|') + ')(.+)$|^(c.+)(' + lookFor.join('|') + ')$'
   console.log(' ')
   console.log('For the geeks: testing regular expression: ')
   console.log('  ', re)
