@@ -39,7 +39,7 @@ My code [is over here](https://github.com/WietseWind/xrp-vanity-generator/blob/m
 	const CasinocoinAPI  = require('casinocoin-libjs').CasinocoinAPI
 	const api = new CasinocoinAPI()
 
-... I use **casinocoin-libjs** to do this. [casinocoin-libjs](https://github.com/ripple/ripple-lib) is from Casinocoin (the foundation) - this code is open source as well.
+... I use **casinocoin-libjs** to do this. [casinocoin-libjs](https://github.com/casinocoin/casinocoin-libjs) is from Casinocoin (the foundation) - this code is open source as well.
 
 [This](https://github.com/ripple/ripple-lib/blob/develop/src/offline/generate-address.ts) is how they generate a keypair. They use their own lib [ripple-keypairs](https://github.com/ripple/ripple-keypairs) to do this. The function is on [line 17 over here](https://github.com/ripple/ripple-keypairs/blob/master/src/index.js) and at line 19 you can see they use the **brorand** lib. to [generate the randomness](https://github.com/indutny/brorand/blob/master/index.js). This lib. uses the **crypto** object, a native NodeJS object, by invoking:
 
