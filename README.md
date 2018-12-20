@@ -1,4 +1,4 @@
-# XRP Vanity address (wallet) generator
+# CSC Vanity address (wallet) generator
 
 A vanity address is a wallet address containing a few characters you like at the beginning or the end of the wallet address. Of course we can't just generate the address: the address is a derivative from a secret key. So: this tool generates several secret keys per second. The script will test the derived wallet address against one or more keywords you can supply.
 
@@ -49,4 +49,4 @@ More info about this method [over here](https://nodejs.org/api/crypto.html#crypt
 
 ### Feeling generous?
 
-Tips are highly appreciated at CSC address `rPdvC6ccq8hCdPKSPJkPmyZ4Mi1oG2FFkT`
+Tips are highly appreciated at CSC address ` ccscRN39AMuqFUAXzJijYUcyjkH3u59bYV `
