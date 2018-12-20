@@ -1,0 +1,12 @@
+{
+  "name": "csc-vanity-generator",
+  "version": "1.0.0",
+  "description": "CSC Vanity Generator",
+  "author": "Vacek <vacek1@hotmail.com>",
+  "private": false,
+  "dependencies": {},
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  }
+}
