@@ -49,4 +49,4 @@ More info about this method [over here](https://nodejs.org/api/crypto.html#crypt
 
 ### Feeling generous?
 
-Tips are highly appreciated at CSC address ` ccscRN39AMuqFUAXzJijYUcyjkH3u59bYV `
+Tips are highly appreciated at CSC address ` cHoDLvFcHH7dHUBaDXP8KwTL5obDdKQhez `
