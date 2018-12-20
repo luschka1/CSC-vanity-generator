@@ -17,7 +17,7 @@ node cscwallet.js bob csc moon jim
 
 The example command above will search for wallet addresses containing either _bob_, _csc_, _moon_ or _jim_.
 
-![Demo of install and wallet generation](https://gtasb9v.dlvr.cloud/4.gif)
+![Demo of install and wallet generation](https://www.dropbox.com/s/ucs1dg9fui9s2z6/screen_1.gif?dl=0)
 
 ## Notes
 
