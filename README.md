@@ -4,7 +4,7 @@ A vanity address is a wallet address containing a few characters you like at the
 
 ## How to use this tool
 
-1. Make sure you have **nodejs** installed on your computer:
+1. Make sure you have **nodejs** installed on your computer, version 6.x or greater:
 [https://www.npmjs.com/get-npm](https://www.npmjs.com/get-npm).
 (nodejs allowes you to run Javascript code on your computer from the commandline).
 2. Download the source of this repository (using `git clone` or by downloading the zip)
