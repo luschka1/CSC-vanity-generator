@@ -32,7 +32,7 @@ node cscwallet_any.js bob csc moon jim
 ## Notes
 
 - This script 'cscwallet.js' will look for your keywords at the beginning or at the end of CSC wallet addresses.
-- This script 'cscwallet_any.js' will look for your keywords at asny position of CSC wallet addresses.
+- This script 'cscwallet_any.js' will look for your keywords at any position of CSC wallet addresses.
 - This script will look for matches, case insensitive.
 - The longer the keyword you are looking for, the longer it takes to find a match.
 - If you want to be make sure the generated wallets + keys are safe, generate offline.
