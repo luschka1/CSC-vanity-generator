@@ -15,14 +15,24 @@ A vanity address is a wallet address containing a few characters you like at the
 ```
 node cscwallet.js bob csc moon jim
 ```
-
 The example command above will search for wallet addresses containing either _bob_, _csc_, _moon_ or _jim_.
 
 ![Demo of install and wallet generation](screen_1.gif)
 
+
+**EDIT: January 2nd:**
+
+Added new file. cscwallet_any.js  to allow searching in any position in the wallet address.
+```
+node cscwallet_any.js bob csc moon jim
+```
+
+
+
 ## Notes
 
-- This script will look for your keywords at the beginning or at the end of CSC wallet addresses.
+- This script 'cscwallet.js' will look for your keywords at the beginning or at the end of CSC wallet addresses.
+- This script 'cscwallet_any.js' will look for your keywords at asny position of CSC wallet addresses.
 - This script will look for matches, case insensitive.
 - The longer the keyword you are looking for, the longer it takes to find a match.
 - If you want to be make sure the generated wallets + keys are safe, generate offline.
